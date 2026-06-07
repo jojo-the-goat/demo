@@ -1,4 +1,4 @@
 print("hello")
 
-def add(a:int,b:int):
+def add(a:float,b:float)->float:
     return a+b
